@@ -1,8 +1,8 @@
 # Student Information
 
-Name: Quang Nguyen  
-GitHub Username: DustinTN  
-Course: COSC 4353 (Tues-Thurs 11:30-1:00)  
+Name: Quang Nguyen
+GitHub Username: DustinTN
+Course: COSC 4353 (Tues-Thurs 11:30-1:00)
 Maven Build System Demo
 
 # Word Frequency Analyzer — Maven Build System Demo
@@ -11,9 +11,9 @@ Maven Build System Demo
 <!-- These badges are auto-updated by the CI pipeline on every push.     -->
 <!-- Replace YOUR_USERNAME/YOUR_REPO with your actual GitHub path.       -->
 
-![Build Status](https://github.com/UHSETeaching/Maven-Build-System-Demo/actions/workflows/ci.yml/badge.svg)
-![Coverage](https://github.com/UHSETeaching/Maven-Build-System-Demo/raw/gh-pages/.badges/jacoco.svg)
-![Branches](https://github.com/UHSETeaching/Maven-Build-System-Demo/raw/gh-pages/.badges/branches.svg)
+![Build Status](https://github.com/DustinTN/Maven-Build-System-Demo/actions/workflows/ci.yml/badge.svg)
+![Coverage](https://github.com/DustinTN/Maven-Build-System-Demo/raw/gh-pages/.badges/jacoco.svg)
+![Branches](https://github.com/DustinTN/Maven-Build-System-Demo/raw/gh-pages/.badges/branches.svg)
 
 Hi
 A simple Java project that demonstrates core Maven (build system) concepts and CI/CD with GitHub Actions.
