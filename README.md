@@ -1,8 +1,8 @@
 # Student Information
 
-Name: Quang Nguyen
-GitHub Username: DustinTN
-Course: COSC 4353 (Tues-Thurs 11:30-1:00)
+Name: Quang Nguyen   
+GitHub Username: DustinTN   
+Course: COSC 4353 (Tues-Thurs 11:30-1:00)   
 Maven Build System Demo
 
 # Word Frequency Analyzer — Maven Build System Demo
